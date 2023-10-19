@@ -99,3 +99,4 @@ The Brain-Score projects are open source and can be freely explored.
    model implementations. This is a good project to explore regarding the model integration. 
  - The [model-tools](https://github.com/brain-score/candidate_models) project contains useful helper methods for adding 
    new base models and provides the standard tools to convert them into brain models.
+# resnet50-pretrained-submission
